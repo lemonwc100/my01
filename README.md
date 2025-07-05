@@ -1,16 +1,9 @@
 # chicken_farm
 
-A new Flutter project.
+## Goal of the game
 
-## Getting Started
+Try to collect 10 eggs. Tab on the chicken so they will give you an egg.
 
-This project is a starting point for a Flutter application.
+## Resources
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter was used.
